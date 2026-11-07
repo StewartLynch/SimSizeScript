@@ -1,6 +1,6 @@
 # simsize
 
-![CleanShot 2026-11-07 at 12.03.14 PM](assets/CleanShot 2026-11-07 at 12.03.14 PM.gif)
+![simsize demonstration](<assets/CleanShot 2026-11-07 at 12.03.14 PM.gif>)
 
 **Change Dynamic Type text sizes in running iOS simulators, right from Terminal.**
 
